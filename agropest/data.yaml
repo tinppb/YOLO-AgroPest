@@ -1,0 +1,19 @@
+train: 'D:/Yolo1/datasets/agropest/train'
+val: 'D:/Yolo1/datasets/agropest/valid'
+test: 'D:/Yolo1/datasets/agropest/test'
+nc: 12
+names:
+  [
+    "Ants",
+    "Bees",
+    "Beetles",
+    "Caterpillars",
+    "Earthworms",
+    "Earwigs",
+    "Grasshoppers",
+    "Moths",
+    "Slugs",
+    "Snails",
+    "Wasps",
+    "Weevils",
+  ]

@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# ---- Virtual environment ----
+env/
+venv/
+.cv_env/
+*.env
+*.venv
+
+# ---- YOLO / Ultralytics outputs ----
+runs/
+weights/
+*.pt
+*.onnx
+*.engine
+*.tflite
+*.pb
+*.mlmodel
+*.ncnn
+*.torchscript
+
+# ---- Dataset large files ----
+datasets/
+data/
+*.zip
+*.rar
+*.tar
+*.tar.gz
+
+# ---- Logs ----
+*.log
+*.txt
+*.csv
+*.json
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.code-workspace
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
