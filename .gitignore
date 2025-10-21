@@ -15,7 +15,7 @@ venv/
 # ---- YOLO / Ultralytics outputs ----
 runs/
 weights/
-*.pt
+
 *.onnx
 *.engine
 *.tflite
