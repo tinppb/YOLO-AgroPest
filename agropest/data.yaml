@@ -1,6 +1,6 @@
-train: 'D:/Yolo1/datasets/agropest/train'
-val: 'D:/Yolo1/datasets/agropest/valid'
-test: 'D:/Yolo1/datasets/agropest/test'
+train: 'D:/Yolo1/agropest/train'
+val: 'D:/Yolo1/agropest/valid'
+test: 'D:/Yolo1/agropest/test'
 nc: 12
 names:
   [
