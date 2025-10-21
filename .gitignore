@@ -13,8 +13,7 @@ venv/
 *.venv
 
 # ---- YOLO / Ultralytics outputs ----
-runs/
-weights/
+
 
 *.onnx
 *.engine
